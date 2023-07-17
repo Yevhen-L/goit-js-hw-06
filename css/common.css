@@ -13,12 +13,12 @@ body {
   line-height: 1.5;
 }
 
-input {
+.input {
   padding: 8px;
   font: inherit;
 }
 
-button {
+.button {
   padding: 8px 12px;
   cursor: pointer;
 }
@@ -28,9 +28,3 @@ button {
   flex-wrap: wrap;
   list-style: none;
 }
-
-.gallery .li {
-  /* flex: 0 0 33.33%;  */
-  padding: 10px;
-  box-sizing: border-box;
-} 
